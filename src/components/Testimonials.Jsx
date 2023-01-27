@@ -4,9 +4,9 @@ import FeedbackCard from "./FeedbackCard";
 import Slide from "./Slide";
 
 const Testimonials = () => (
-  <section id="home" className={`carousel ${styles.flexCenter} flex-col py-1`}>
-    <Slide />
-  </section>
+  <div>
+    <h1>Testing</h1>
+  </div>
 );
 
 export default Testimonials;
