@@ -5,7 +5,7 @@ import Slide from "./Slide";
 
 const Testimonials = () => (
   <div>
-    <h1>Testing</h1>
+    <Slide/>
   </div>
 );
 
