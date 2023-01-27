@@ -14,6 +14,7 @@ module.exports = {
         pasteldblue: "#0F7E9B",
         pastelgreen: "#A2EAE0",
         pastelpink: "#F9ACBB",
+        pastelyellow: "#FDFD96",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],

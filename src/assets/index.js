@@ -27,6 +27,14 @@ import bw1 from "./bw1.png";
 import mra from "./mra.png";
 import logomra from "./mra-type.png";
 
+//import gambar dari slide
+import slide1 from "./slide/DSC02819.jpg";
+import slide2 from "./slide/DSC02837.jpg";
+import slide3 from "./slide/DSC02861.jpg";
+import slide4 from "./slide/DSC02821.jpg";
+
+
+
 export {
   airbnb,
   bill,
@@ -56,5 +64,9 @@ export {
   bw1,
   mra,
   logomra,
+  slide1,
+  slide2,
+  slide3,
+  slide4,
 
 };
